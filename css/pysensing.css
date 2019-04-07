@@ -1,0 +1,31 @@
+
+#menu { margin: 0; padding: 0; position: fixed; right: 10px; top: 10px; list-style-type: none; z-index: 70;}
+#menu li { float: left; margin:  0 10px 0 0; font-size: 14px;}
+#menu a { float: left; padding: 10px 20px; background-color: #fff; color: #333; text-decoration: none;}
+#menu .active a { color: #fff; background-color: #333;}
+
+.section{
+text-align:center;font:50px "Microsoft Yahei"; color:#fff;
+}
+.section1{
+background-color:#e6836c
+}
+.section2{
+background-color:#18538d
+}
+.section4{
+background-color:#e54b4d
+}
+.slide1{
+background-color:#a4c4bf
+}
+.slide2{
+background-color:#177d7f
+}
+.slide3{
+background-color:#0181c8
+}
+.slide4{
+background-color:#9966CC
+}
+
